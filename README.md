@@ -1,6 +1,6 @@
 # Unsupervised-image-co-segmentation-via-guidance-of-simple-images
 This code is for   
-[1]Li L, Liu Z, Zhang J. Unsupervised image co-segmentation via guidance of simple images[J]. Neurocomputing, 2018, 275: 1650-1661.,  
+[1]L. Li, Z. Liu, and J. Zhang, “Unsupervised image co-segmentation via guidance of simple images,” Neurocomputing, vol. 275, pp. 1650-1661, Jan. 2018.,  
 and can only be used for non-comercial purpose.   
 If you use our code, please cite [1].
 
